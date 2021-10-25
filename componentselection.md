@@ -7,7 +7,7 @@ High precision Z system with anti-wobble system
 
 Configuration|Description|ReleaseDate|Thingiverse
 -------------|-----------|-----------|-----------
-**V1.6**|![alt text](/images/complete.png) <br> Last version available. Holes addes to access the NEMA17 screw for tuning alignment
+**V1.6**|![alt text](/image/complete.png) <br> Last version available. Holes addes to access the NEMA17 screw for tuning alignment
 
 
 ## 2. UltraLight Gantry XY
