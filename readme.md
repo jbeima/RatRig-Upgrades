@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/FlorentBroise/RatRig-Upgrades/blob/master/images/Coverflat.png?raw=true)
+![alt text](https://github.com/FlorentBroise/RatRig-Upgrades/image/2.png?raw=true)
 # Welcome to the BRS-Engineering Vcore upgrades project!
 
 **What is done here?**  The main objective here is to develop relevants upgrades to push the Vcore to the limit we choose to 
