@@ -1,7 +1,7 @@
 # Defining the needs for your printer
 
-You have to sort out what is your real need.
-Upgrade can satisfy a specefic fonction or need but always get a drawback, most of the time.
+You have to sort out what are your real needs.
+Upgrade can satisfy a specific fonction or need but always get a drawback, most of the time.
 
 Example!
 
