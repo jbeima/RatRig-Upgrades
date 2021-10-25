@@ -1,5 +1,4 @@
 
-![alt text](/image/2.png)
 # Welcome to the BRS-Engineering Vcore upgrades project!
 
 **What is done here?**  The main objective here is to develop relevants upgrades to push the Vcore to the limit we choose to 
