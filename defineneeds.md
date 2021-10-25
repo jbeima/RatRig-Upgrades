@@ -1,4 +1,4 @@
-# Defining the size of your HevORT
+# Defining the needs for your printer
 
 You have to sort out what is your real need.
 Upgrade can satisfy a specefic fonction or need but always get a drawback, most of the time.
