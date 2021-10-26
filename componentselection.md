@@ -7,7 +7,7 @@ High precision Z system with anti-wobble system
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment|29/09/21|[F3D](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BRS-BS-v1.6-400.f3d)| [Link](https://www.thingiverse.com/thing:4978199)
+**V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment|29/09/21|[F3D](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BRS-BS-v1.6-400.f3d) [STEP](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BRS-BS-v1-6-400.zip)| [Link](https://www.thingiverse.com/thing:4978199)
 
 
 ## 2. UltraLight Gantry XY
