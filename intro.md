@@ -15,4 +15,4 @@ This upgrade is part of the Creative commons CC BY-NC 4.0, All rights are exclus
 Modifications are possible but don't forget this was designed this way for reasons, I'm not responsible of a bad redesign by others. If modifications are needed, you can submit it to contact@brs-engineering.com
 For a request concerning a particular case, only Florent BROISE / BRS-TECH can agree to a derogation.
 
-[Back to Main Page](/README.md)
+[Back to Main Page](/readme.md)
