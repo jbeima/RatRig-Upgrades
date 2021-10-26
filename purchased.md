@@ -9,4 +9,4 @@ Printer Component|Status|View|STL files|Bill of Material (Excel)
 Z system|Active|![alt text](/image/Complete.png)<br> **Z-Upgrade** Ballscrew system|[link](https://www.thingiverse.com/thing:4978199)|[Download](/bom/BOM_ZU_1-6.xlsx)  
 
 
-## [Back to Main Page](/README.md)
+## [Back to Main Page](/readme.md)
