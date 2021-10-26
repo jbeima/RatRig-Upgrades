@@ -1,3 +1,4 @@
+![alt text](/image/2.png)
 
 ### Upgrades?  
 The Vcore3 offer a strong base to modify for eiter specific needs or better prints
@@ -6,6 +7,8 @@ The Z upgrade is the first of the upgrade to be available
 Will follow a lot more...
 
 As always i have a company, BRS-Engineering, which propose a print service for industrial grade materials if needed
+
+https://www.brs-engineering.com/
 
 ### Licence?
 
