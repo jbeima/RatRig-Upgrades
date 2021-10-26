@@ -1,4 +1,3 @@
-![alt text](/image/2.png)
 
 ### Upgrades?  
 The Vcore3 offer a strong base to modify for eiter specific needs or better prints
