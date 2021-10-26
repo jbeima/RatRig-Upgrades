@@ -24,14 +24,15 @@ High CFM Laminar cooling solution to remove fans from the head, giving more powe
 
 Configuration|Description|ReleaseDate|Thingiverse
 -------------|-----------|-----------|-----------
-**Soon**|![alt text](/images/HemeraThumb.png) <br> |Nov 2021|
+**Soon**|![alt text](/image/brsvs.png) <br> |Nov 2021|
 
 ## 4. The Flathead
 Based on the MirageC design from Hevort project
+Carbon fiber and titanium based head
 
 Configuration|Description|ReleaseDate|Thingiverse
 -------------|-----------|-----------|-----------
-**Soon**|![alt text](/images/HemeraThumb.png) <br>|Nov 2021|
+**Soon**|![alt text](/image/flathead.png) <br>|Nov 2021|
 
 
 
