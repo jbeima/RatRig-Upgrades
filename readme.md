@@ -13,12 +13,7 @@ Intro.|[What is done here?](/intro.md)
 4.|[BOM](/purchased.md)
 5.|[How to Print your Parts](/howtoprint.md)
 6.|[Assembly Instructions](/assembly.md)
-7.|[Firmware configuration](/firmwaresettings.md)
-8.|First run!
-9.|Calibration
-10.|Fine Tuning
 
-Ref.|[Useful References and Links](/usefulref.md)
 
  
 
